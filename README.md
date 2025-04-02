@@ -6,7 +6,7 @@
 
 With a robust architecture that includes **multithreading** and **concurrent server execution**, Similarity ensures fast and accurate plagiarism detection. The platform has achieved **40,000+ website views** in just one week and sustains **500 daily active users** across **50+ countries**.
 
-![image](https://github.com/user-attachments/assets/2c7124cf-f4da-4195-a702-ac5de2cdccec)
+![image](https://github.com/user-attachments/assets/d52dd8ca-37a7-40bc-ae7b-150e8cb2e9d0)
 
 
 ---
@@ -24,24 +24,30 @@ With a robust architecture that includes **multithreading** and **concurrent ser
 # Introduction
 
 1. On the Home Page, navigate to the Contest button.
-![image](https://github.com/user-attachments/assets/b4e0dca5-5f1d-4241-94ea-5ef2c2c2d455)
+![image](https://github.com/user-attachments/assets/f1469f33-8ea9-4545-99e1-20ce30d6bbb6)
+
 
 2. Select the desired contest from the available list.
-![image](https://github.com/user-attachments/assets/7780f2c9-91cc-4ee4-a773-0bc8ac538d72)
+![image](https://github.com/user-attachments/assets/76bb24dd-1fa8-4a34-af38-26ba37419729)
+
 
 3. Choose a specific question from the contest.
-![image](https://github.com/user-attachments/assets/7166f03b-6a48-4f5c-a4f8-013b30ee7180)
+![image](https://github.com/user-attachments/assets/d1f50ed7-e6e2-4c80-ac34-ee707af1d048)
+
 
 4. You will see a list of all users detected for plagiarism in this question.
-![image](https://github.com/user-attachments/assets/e3a0d951-ac38-454e-bd3b-974aeabb71ee)
+![image](https://github.com/user-attachments/assets/a1f2efd1-e161-4e0d-92c4-d7043693991a)
+
 
 5. Click on any specific user from the list.
 
 6. The selected user's code will appear on the left, and all the users with matching code will be displayed on the right.
-![image](https://github.com/user-attachments/assets/631d6c34-da62-46d0-a811-bdbe04380740)
+![image](https://github.com/user-attachments/assets/6bcca272-3e14-407a-a8cb-5edf206fc3ea)
+
 
 7. Upon clicking the Code button, you will get a Report Solution option, which will redirect you to the LeetCode leaderboard ranking to report the user.
-![image](https://github.com/user-attachments/assets/7124f451-d6b7-411c-85e7-00c4d4f8730c)
+![image](https://github.com/user-attachments/assets/86e81dbe-3d9a-48ed-bd0d-46d829da3e05)
+
 
 
 ---
@@ -120,7 +126,8 @@ src/
 │       └── ... (Configuration files, static resources)
 ```
 
-![upscalemedia-transformed](https://github.com/user-attachments/assets/4d25c8ca-dd48-42cd-8c23-917d99b3d508)
+![upscalemedia-transformed](https://github.com/user-attachments/assets/8c78656f-5245-460a-8ef2-613a253cf45a)
+
 
 ---
 
