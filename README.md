@@ -1,6 +1,8 @@
 ---
 
-# Similarity
+# Similarity 
+
+CA : EaGPjP2qHdMSpm35jkicDps3nvawLrGkrTQn3oCDBAGS
 
 [Similarity](https://www.similarity.in//) is a **real-time plagiarism detection platform** designed to analyze and compare code submissions efficiently. It integrates an open-source plagiarism detection engine with a scalable backend, optimized to handle high-traffic loads. The system supports real-time processing of 10,000+ code submissions within 30 minutes, leveraging Java, Spring Boot, React, PostgreSQL, Azure, and AWS RDS.
 
